@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 70b2a9ae54908924d9522f6cc5c1ae8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - Song: {fileID: 8300000, guid: 6733b2d2539f153429edd859b091ee52, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
